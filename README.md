@@ -12,7 +12,6 @@ Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje 
     <img src="https://skillicons.dev/icons?i=angular,cs,astro,php,bootstrap,docker,dotnet,css,html,js,express,mysql,postgres,mongodb,netlify,nestjs,git,github,postman,vscode,visualstudio,react,prisma,vite,&perline=12" />
   </a>
 </p>
-
 # 📊 GitHub Estadística:
 ![](https://github-readme-stats.vercel.app/api?username=DaR3k6&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaR3k6&theme=radical&hide_border=false)<br/>
