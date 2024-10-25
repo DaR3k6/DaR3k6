@@ -19,10 +19,6 @@ Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje 
 
 ### 🔝 Top Contribuciones Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DaR3k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✍️ Cita aleatoria de un desarrollador
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DaR3k6&icon=0&color=0)](https://visitcount.itsvg.in)
 
