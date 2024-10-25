@@ -17,6 +17,9 @@ Soy un joven colombiano apasionado por la tecnología, en constante aprendizaje 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DaR3k6&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaR3k6&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contribuciones Repo
+![](https://github-contributor-stats.vercel.app/api?username=DaR3k6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### ✍️ Cita aleatoria de un desarrollador
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
